@@ -1,0 +1,2499 @@
+{
+  "files": [
+    {
+      "key": "votacao_secao_2012",
+      "local": "votacao_secao/2012/votacao_secao_2012_SP.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2012_SP.zip",
+      "tipo": "votacao_secao",
+      "ano": 2012
+    },
+    {
+      "key": "candidatos_2012",
+      "local": "candidatos/2012/consulta_cand_2012.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2012.zip",
+      "tipo": "candidatos",
+      "ano": 2012
+    },
+    {
+      "key": "candidatos_2014",
+      "local": "candidatos/2014/consulta_cand_2014.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2014.zip",
+      "tipo": "candidatos",
+      "ano": 2014
+    },
+    {
+      "key": "codigos_tse_ibge",
+      "local": "codigos/municipio_tse_ibge.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/municipio_tse_ibge/municipio_tse_ibge.zip",
+      "tipo": "codigos",
+      "ano": null
+    },
+    {
+      "key": "perfil_secao_2022",
+      "local": "eleitorado_secao/2022/perfil_eleitor_secao_2022_SP.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2022_SP.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2022,
+      "eleicao": "geral"
+    },
+    {
+      "key": "perfil_secao_2024",
+      "local": "eleitorado_secao/2024/perfil_eleitor_secao_2024_SP.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2024_SP.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2024,
+      "eleicao": "municipal"
+    },
+    {
+      "key": "perfil_secao_2026",
+      "local": "eleitorado_secao/2026/perfil_eleitor_secao_2026_SP.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2026_SP.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2026,
+      "eleicao": "geral"
+    },
+    {
+      "key": "perfil_secao_2020",
+      "local": "eleitorado_secao/2020/perfil_eleitor_secao_2020_SP.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2020_SP.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2020,
+      "eleicao": "municipal"
+    },
+    {
+      "key": "local_votacao_2022",
+      "local": "local_votacao/2022/eleitorado_local_votacao_2022.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/eleitorado_locais_votacao/eleitorado_local_votacao_2022.zip",
+      "tipo": "local_votacao",
+      "ano": 2022
+    },
+    {
+      "key": "local_votacao_2024",
+      "local": "local_votacao/2024/eleitorado_local_votacao_2024.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/eleitorado_locais_votacao/eleitorado_local_votacao_2024.zip",
+      "tipo": "local_votacao",
+      "ano": 2024
+    },
+    {
+      "key": "local_votacao_2026",
+      "local": "local_votacao/2026/eleitorado_local_votacao_2026.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/eleitorado_locais_votacao/eleitorado_local_votacao_2026.zip",
+      "tipo": "local_votacao",
+      "ano": 2026
+    },
+    {
+      "key": "votacao_secao_2014",
+      "local": "votacao_secao/2014/votacao_secao_2014_SP.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2014_SP.zip",
+      "tipo": "votacao_secao",
+      "ano": 2014,
+      "eleicao": "geral"
+    },
+    {
+      "key": "votacao_secao_2016",
+      "local": "votacao_secao/2016/votacao_secao_2016_SP.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2016_SP.zip",
+      "tipo": "votacao_secao",
+      "ano": 2016,
+      "eleicao": "municipal"
+    },
+    {
+      "key": "votacao_secao_2018",
+      "local": "votacao_secao/2018/votacao_secao_2018_SP.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2018_SP.zip",
+      "tipo": "votacao_secao",
+      "ano": 2018,
+      "eleicao": "geral"
+    },
+    {
+      "key": "votacao_secao_2020",
+      "local": "votacao_secao/2020/votacao_secao_2020_SP.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2020_SP.zip",
+      "tipo": "votacao_secao",
+      "ano": 2020,
+      "eleicao": "municipal"
+    },
+    {
+      "key": "votacao_secao_2022",
+      "local": "votacao_secao/2022/votacao_secao_2022_SP.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2022_SP.zip",
+      "tipo": "votacao_secao",
+      "ano": 2022,
+      "eleicao": "geral"
+    },
+    {
+      "key": "votacao_secao_2024",
+      "local": "votacao_secao/2024/votacao_secao_2024_SP.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_SP.zip",
+      "tipo": "votacao_secao",
+      "ano": 2024,
+      "eleicao": "municipal"
+    },
+    {
+      "key": "votacao_secao_2026",
+      "local": "votacao_secao/2026/votacao_secao_2026_SP.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_SP.zip",
+      "tipo": "votacao_secao",
+      "ano": 2026,
+      "eleicao": "geral"
+    },
+    {
+      "key": "candidatos_2016",
+      "local": "candidatos/2016/consulta_cand_2016.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2016.zip",
+      "tipo": "candidatos",
+      "ano": 2016
+    },
+    {
+      "key": "candidatos_2018",
+      "local": "candidatos/2018/consulta_cand_2018.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2018.zip",
+      "tipo": "candidatos",
+      "ano": 2018
+    },
+    {
+      "key": "candidatos_2020",
+      "local": "candidatos/2020/consulta_cand_2020.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2020.zip",
+      "tipo": "candidatos",
+      "ano": 2020
+    },
+    {
+      "key": "candidatos_2022",
+      "local": "candidatos/2022/consulta_cand_2022.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2022.zip",
+      "tipo": "candidatos",
+      "ano": 2022
+    },
+    {
+      "key": "candidatos_2024",
+      "local": "candidatos/2024/consulta_cand_2024.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2024.zip",
+      "tipo": "candidatos",
+      "ano": 2024
+    },
+    {
+      "key": "candidatos_2026",
+      "local": "candidatos/2026/consulta_cand_2026.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
+      "tipo": "candidatos",
+      "ano": 2026
+    },
+    {
+      "key": "votacao_presidente_2014",
+      "local": "votacao_presidente/2014/votacao_secao_2014_BR.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2014_BR.zip",
+      "tipo": "votacao_presidente",
+      "ano": 2014
+    },
+    {
+      "key": "votacao_presidente_2018",
+      "local": "votacao_presidente/2018/votacao_secao_2018_BR.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2018_BR.zip",
+      "tipo": "votacao_presidente",
+      "ano": 2018
+    },
+    {
+      "key": "votacao_presidente_2022",
+      "local": "votacao_presidente/2022/votacao_secao_2022_BR.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2022_BR.zip",
+      "tipo": "votacao_presidente",
+      "ano": 2022
+    },
+    {
+      "key": "votacao_presidente_2026",
+      "local": "votacao_presidente/2026/votacao_secao_2026_BR.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_BR.zip",
+      "tipo": "votacao_presidente",
+      "ano": 2026
+    },
+    {
+      "key": "votacao_secao_2012_AC",
+      "local": "votacao_secao/2012/votacao_secao_2012_AC.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2012_AC.zip",
+      "tipo": "votacao_secao",
+      "ano": 2012,
+      "uf": "AC"
+    },
+    {
+      "key": "votacao_secao_2012_AL",
+      "local": "votacao_secao/2012/votacao_secao_2012_AL.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2012_AL.zip",
+      "tipo": "votacao_secao",
+      "ano": 2012,
+      "uf": "AL"
+    },
+    {
+      "key": "votacao_secao_2012_AM",
+      "local": "votacao_secao/2012/votacao_secao_2012_AM.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2012_AM.zip",
+      "tipo": "votacao_secao",
+      "ano": 2012,
+      "uf": "AM"
+    },
+    {
+      "key": "votacao_secao_2012_AP",
+      "local": "votacao_secao/2012/votacao_secao_2012_AP.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2012_AP.zip",
+      "tipo": "votacao_secao",
+      "ano": 2012,
+      "uf": "AP"
+    },
+    {
+      "key": "votacao_secao_2012_BA",
+      "local": "votacao_secao/2012/votacao_secao_2012_BA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2012_BA.zip",
+      "tipo": "votacao_secao",
+      "ano": 2012,
+      "uf": "BA"
+    },
+    {
+      "key": "votacao_secao_2012_CE",
+      "local": "votacao_secao/2012/votacao_secao_2012_CE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2012_CE.zip",
+      "tipo": "votacao_secao",
+      "ano": 2012,
+      "uf": "CE"
+    },
+    {
+      "key": "votacao_secao_2012_DF",
+      "local": "votacao_secao/2012/votacao_secao_2012_DF.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2012_DF.zip",
+      "tipo": "votacao_secao",
+      "ano": 2012,
+      "uf": "DF"
+    },
+    {
+      "key": "votacao_secao_2012_ES",
+      "local": "votacao_secao/2012/votacao_secao_2012_ES.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2012_ES.zip",
+      "tipo": "votacao_secao",
+      "ano": 2012,
+      "uf": "ES"
+    },
+    {
+      "key": "votacao_secao_2012_GO",
+      "local": "votacao_secao/2012/votacao_secao_2012_GO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2012_GO.zip",
+      "tipo": "votacao_secao",
+      "ano": 2012,
+      "uf": "GO"
+    },
+    {
+      "key": "votacao_secao_2012_MA",
+      "local": "votacao_secao/2012/votacao_secao_2012_MA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2012_MA.zip",
+      "tipo": "votacao_secao",
+      "ano": 2012,
+      "uf": "MA"
+    },
+    {
+      "key": "votacao_secao_2012_MG",
+      "local": "votacao_secao/2012/votacao_secao_2012_MG.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2012_MG.zip",
+      "tipo": "votacao_secao",
+      "ano": 2012,
+      "uf": "MG"
+    },
+    {
+      "key": "votacao_secao_2012_MS",
+      "local": "votacao_secao/2012/votacao_secao_2012_MS.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2012_MS.zip",
+      "tipo": "votacao_secao",
+      "ano": 2012,
+      "uf": "MS"
+    },
+    {
+      "key": "votacao_secao_2012_MT",
+      "local": "votacao_secao/2012/votacao_secao_2012_MT.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2012_MT.zip",
+      "tipo": "votacao_secao",
+      "ano": 2012,
+      "uf": "MT"
+    },
+    {
+      "key": "votacao_secao_2012_PA",
+      "local": "votacao_secao/2012/votacao_secao_2012_PA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2012_PA.zip",
+      "tipo": "votacao_secao",
+      "ano": 2012,
+      "uf": "PA"
+    },
+    {
+      "key": "votacao_secao_2012_PB",
+      "local": "votacao_secao/2012/votacao_secao_2012_PB.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2012_PB.zip",
+      "tipo": "votacao_secao",
+      "ano": 2012,
+      "uf": "PB"
+    },
+    {
+      "key": "votacao_secao_2012_PE",
+      "local": "votacao_secao/2012/votacao_secao_2012_PE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2012_PE.zip",
+      "tipo": "votacao_secao",
+      "ano": 2012,
+      "uf": "PE"
+    },
+    {
+      "key": "votacao_secao_2012_PI",
+      "local": "votacao_secao/2012/votacao_secao_2012_PI.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2012_PI.zip",
+      "tipo": "votacao_secao",
+      "ano": 2012,
+      "uf": "PI"
+    },
+    {
+      "key": "votacao_secao_2012_PR",
+      "local": "votacao_secao/2012/votacao_secao_2012_PR.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2012_PR.zip",
+      "tipo": "votacao_secao",
+      "ano": 2012,
+      "uf": "PR"
+    },
+    {
+      "key": "votacao_secao_2012_RJ",
+      "local": "votacao_secao/2012/votacao_secao_2012_RJ.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2012_RJ.zip",
+      "tipo": "votacao_secao",
+      "ano": 2012,
+      "uf": "RJ"
+    },
+    {
+      "key": "votacao_secao_2012_RN",
+      "local": "votacao_secao/2012/votacao_secao_2012_RN.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2012_RN.zip",
+      "tipo": "votacao_secao",
+      "ano": 2012,
+      "uf": "RN"
+    },
+    {
+      "key": "votacao_secao_2012_RO",
+      "local": "votacao_secao/2012/votacao_secao_2012_RO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2012_RO.zip",
+      "tipo": "votacao_secao",
+      "ano": 2012,
+      "uf": "RO"
+    },
+    {
+      "key": "votacao_secao_2012_RR",
+      "local": "votacao_secao/2012/votacao_secao_2012_RR.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2012_RR.zip",
+      "tipo": "votacao_secao",
+      "ano": 2012,
+      "uf": "RR"
+    },
+    {
+      "key": "votacao_secao_2012_RS",
+      "local": "votacao_secao/2012/votacao_secao_2012_RS.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2012_RS.zip",
+      "tipo": "votacao_secao",
+      "ano": 2012,
+      "uf": "RS"
+    },
+    {
+      "key": "votacao_secao_2012_SC",
+      "local": "votacao_secao/2012/votacao_secao_2012_SC.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2012_SC.zip",
+      "tipo": "votacao_secao",
+      "ano": 2012,
+      "uf": "SC"
+    },
+    {
+      "key": "votacao_secao_2012_SE",
+      "local": "votacao_secao/2012/votacao_secao_2012_SE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2012_SE.zip",
+      "tipo": "votacao_secao",
+      "ano": 2012,
+      "uf": "SE"
+    },
+    {
+      "key": "votacao_secao_2012_TO",
+      "local": "votacao_secao/2012/votacao_secao_2012_TO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2012_TO.zip",
+      "tipo": "votacao_secao",
+      "ano": 2012,
+      "uf": "TO"
+    },
+    {
+      "key": "votacao_secao_2014_AC",
+      "local": "votacao_secao/2014/votacao_secao_2014_AC.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2014_AC.zip",
+      "tipo": "votacao_secao",
+      "ano": 2014,
+      "uf": "AC"
+    },
+    {
+      "key": "votacao_secao_2014_AL",
+      "local": "votacao_secao/2014/votacao_secao_2014_AL.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2014_AL.zip",
+      "tipo": "votacao_secao",
+      "ano": 2014,
+      "uf": "AL"
+    },
+    {
+      "key": "votacao_secao_2014_AM",
+      "local": "votacao_secao/2014/votacao_secao_2014_AM.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2014_AM.zip",
+      "tipo": "votacao_secao",
+      "ano": 2014,
+      "uf": "AM"
+    },
+    {
+      "key": "votacao_secao_2014_AP",
+      "local": "votacao_secao/2014/votacao_secao_2014_AP.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2014_AP.zip",
+      "tipo": "votacao_secao",
+      "ano": 2014,
+      "uf": "AP"
+    },
+    {
+      "key": "votacao_secao_2014_BA",
+      "local": "votacao_secao/2014/votacao_secao_2014_BA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2014_BA.zip",
+      "tipo": "votacao_secao",
+      "ano": 2014,
+      "uf": "BA"
+    },
+    {
+      "key": "votacao_secao_2014_CE",
+      "local": "votacao_secao/2014/votacao_secao_2014_CE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2014_CE.zip",
+      "tipo": "votacao_secao",
+      "ano": 2014,
+      "uf": "CE"
+    },
+    {
+      "key": "votacao_secao_2014_DF",
+      "local": "votacao_secao/2014/votacao_secao_2014_DF.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2014_DF.zip",
+      "tipo": "votacao_secao",
+      "ano": 2014,
+      "uf": "DF"
+    },
+    {
+      "key": "votacao_secao_2014_ES",
+      "local": "votacao_secao/2014/votacao_secao_2014_ES.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2014_ES.zip",
+      "tipo": "votacao_secao",
+      "ano": 2014,
+      "uf": "ES"
+    },
+    {
+      "key": "votacao_secao_2014_GO",
+      "local": "votacao_secao/2014/votacao_secao_2014_GO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2014_GO.zip",
+      "tipo": "votacao_secao",
+      "ano": 2014,
+      "uf": "GO"
+    },
+    {
+      "key": "votacao_secao_2014_MA",
+      "local": "votacao_secao/2014/votacao_secao_2014_MA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2014_MA.zip",
+      "tipo": "votacao_secao",
+      "ano": 2014,
+      "uf": "MA"
+    },
+    {
+      "key": "votacao_secao_2014_MG",
+      "local": "votacao_secao/2014/votacao_secao_2014_MG.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2014_MG.zip",
+      "tipo": "votacao_secao",
+      "ano": 2014,
+      "uf": "MG"
+    },
+    {
+      "key": "votacao_secao_2014_MS",
+      "local": "votacao_secao/2014/votacao_secao_2014_MS.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2014_MS.zip",
+      "tipo": "votacao_secao",
+      "ano": 2014,
+      "uf": "MS"
+    },
+    {
+      "key": "votacao_secao_2014_MT",
+      "local": "votacao_secao/2014/votacao_secao_2014_MT.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2014_MT.zip",
+      "tipo": "votacao_secao",
+      "ano": 2014,
+      "uf": "MT"
+    },
+    {
+      "key": "votacao_secao_2014_PA",
+      "local": "votacao_secao/2014/votacao_secao_2014_PA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2014_PA.zip",
+      "tipo": "votacao_secao",
+      "ano": 2014,
+      "uf": "PA"
+    },
+    {
+      "key": "votacao_secao_2014_PB",
+      "local": "votacao_secao/2014/votacao_secao_2014_PB.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2014_PB.zip",
+      "tipo": "votacao_secao",
+      "ano": 2014,
+      "uf": "PB"
+    },
+    {
+      "key": "votacao_secao_2014_PE",
+      "local": "votacao_secao/2014/votacao_secao_2014_PE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2014_PE.zip",
+      "tipo": "votacao_secao",
+      "ano": 2014,
+      "uf": "PE"
+    },
+    {
+      "key": "votacao_secao_2014_PI",
+      "local": "votacao_secao/2014/votacao_secao_2014_PI.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2014_PI.zip",
+      "tipo": "votacao_secao",
+      "ano": 2014,
+      "uf": "PI"
+    },
+    {
+      "key": "votacao_secao_2014_PR",
+      "local": "votacao_secao/2014/votacao_secao_2014_PR.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2014_PR.zip",
+      "tipo": "votacao_secao",
+      "ano": 2014,
+      "uf": "PR"
+    },
+    {
+      "key": "votacao_secao_2014_RJ",
+      "local": "votacao_secao/2014/votacao_secao_2014_RJ.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2014_RJ.zip",
+      "tipo": "votacao_secao",
+      "ano": 2014,
+      "uf": "RJ"
+    },
+    {
+      "key": "votacao_secao_2014_RN",
+      "local": "votacao_secao/2014/votacao_secao_2014_RN.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2014_RN.zip",
+      "tipo": "votacao_secao",
+      "ano": 2014,
+      "uf": "RN"
+    },
+    {
+      "key": "votacao_secao_2014_RO",
+      "local": "votacao_secao/2014/votacao_secao_2014_RO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2014_RO.zip",
+      "tipo": "votacao_secao",
+      "ano": 2014,
+      "uf": "RO"
+    },
+    {
+      "key": "votacao_secao_2014_RR",
+      "local": "votacao_secao/2014/votacao_secao_2014_RR.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2014_RR.zip",
+      "tipo": "votacao_secao",
+      "ano": 2014,
+      "uf": "RR"
+    },
+    {
+      "key": "votacao_secao_2014_RS",
+      "local": "votacao_secao/2014/votacao_secao_2014_RS.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2014_RS.zip",
+      "tipo": "votacao_secao",
+      "ano": 2014,
+      "uf": "RS"
+    },
+    {
+      "key": "votacao_secao_2014_SC",
+      "local": "votacao_secao/2014/votacao_secao_2014_SC.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2014_SC.zip",
+      "tipo": "votacao_secao",
+      "ano": 2014,
+      "uf": "SC"
+    },
+    {
+      "key": "votacao_secao_2014_SE",
+      "local": "votacao_secao/2014/votacao_secao_2014_SE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2014_SE.zip",
+      "tipo": "votacao_secao",
+      "ano": 2014,
+      "uf": "SE"
+    },
+    {
+      "key": "votacao_secao_2014_TO",
+      "local": "votacao_secao/2014/votacao_secao_2014_TO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2014_TO.zip",
+      "tipo": "votacao_secao",
+      "ano": 2014,
+      "uf": "TO"
+    },
+    {
+      "key": "votacao_secao_2016_AC",
+      "local": "votacao_secao/2016/votacao_secao_2016_AC.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2016_AC.zip",
+      "tipo": "votacao_secao",
+      "ano": 2016,
+      "uf": "AC"
+    },
+    {
+      "key": "votacao_secao_2016_AL",
+      "local": "votacao_secao/2016/votacao_secao_2016_AL.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2016_AL.zip",
+      "tipo": "votacao_secao",
+      "ano": 2016,
+      "uf": "AL"
+    },
+    {
+      "key": "votacao_secao_2016_AM",
+      "local": "votacao_secao/2016/votacao_secao_2016_AM.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2016_AM.zip",
+      "tipo": "votacao_secao",
+      "ano": 2016,
+      "uf": "AM"
+    },
+    {
+      "key": "votacao_secao_2016_AP",
+      "local": "votacao_secao/2016/votacao_secao_2016_AP.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2016_AP.zip",
+      "tipo": "votacao_secao",
+      "ano": 2016,
+      "uf": "AP"
+    },
+    {
+      "key": "votacao_secao_2016_BA",
+      "local": "votacao_secao/2016/votacao_secao_2016_BA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2016_BA.zip",
+      "tipo": "votacao_secao",
+      "ano": 2016,
+      "uf": "BA"
+    },
+    {
+      "key": "votacao_secao_2016_CE",
+      "local": "votacao_secao/2016/votacao_secao_2016_CE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2016_CE.zip",
+      "tipo": "votacao_secao",
+      "ano": 2016,
+      "uf": "CE"
+    },
+    {
+      "key": "votacao_secao_2016_DF",
+      "local": "votacao_secao/2016/votacao_secao_2016_DF.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2016_DF.zip",
+      "tipo": "votacao_secao",
+      "ano": 2016,
+      "uf": "DF"
+    },
+    {
+      "key": "votacao_secao_2016_ES",
+      "local": "votacao_secao/2016/votacao_secao_2016_ES.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2016_ES.zip",
+      "tipo": "votacao_secao",
+      "ano": 2016,
+      "uf": "ES"
+    },
+    {
+      "key": "votacao_secao_2016_GO",
+      "local": "votacao_secao/2016/votacao_secao_2016_GO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2016_GO.zip",
+      "tipo": "votacao_secao",
+      "ano": 2016,
+      "uf": "GO"
+    },
+    {
+      "key": "votacao_secao_2016_MA",
+      "local": "votacao_secao/2016/votacao_secao_2016_MA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2016_MA.zip",
+      "tipo": "votacao_secao",
+      "ano": 2016,
+      "uf": "MA"
+    },
+    {
+      "key": "votacao_secao_2016_MG",
+      "local": "votacao_secao/2016/votacao_secao_2016_MG.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2016_MG.zip",
+      "tipo": "votacao_secao",
+      "ano": 2016,
+      "uf": "MG"
+    },
+    {
+      "key": "votacao_secao_2016_MS",
+      "local": "votacao_secao/2016/votacao_secao_2016_MS.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2016_MS.zip",
+      "tipo": "votacao_secao",
+      "ano": 2016,
+      "uf": "MS"
+    },
+    {
+      "key": "votacao_secao_2016_MT",
+      "local": "votacao_secao/2016/votacao_secao_2016_MT.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2016_MT.zip",
+      "tipo": "votacao_secao",
+      "ano": 2016,
+      "uf": "MT"
+    },
+    {
+      "key": "votacao_secao_2016_PA",
+      "local": "votacao_secao/2016/votacao_secao_2016_PA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2016_PA.zip",
+      "tipo": "votacao_secao",
+      "ano": 2016,
+      "uf": "PA"
+    },
+    {
+      "key": "votacao_secao_2016_PB",
+      "local": "votacao_secao/2016/votacao_secao_2016_PB.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2016_PB.zip",
+      "tipo": "votacao_secao",
+      "ano": 2016,
+      "uf": "PB"
+    },
+    {
+      "key": "votacao_secao_2016_PE",
+      "local": "votacao_secao/2016/votacao_secao_2016_PE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2016_PE.zip",
+      "tipo": "votacao_secao",
+      "ano": 2016,
+      "uf": "PE"
+    },
+    {
+      "key": "votacao_secao_2016_PI",
+      "local": "votacao_secao/2016/votacao_secao_2016_PI.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2016_PI.zip",
+      "tipo": "votacao_secao",
+      "ano": 2016,
+      "uf": "PI"
+    },
+    {
+      "key": "votacao_secao_2016_PR",
+      "local": "votacao_secao/2016/votacao_secao_2016_PR.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2016_PR.zip",
+      "tipo": "votacao_secao",
+      "ano": 2016,
+      "uf": "PR"
+    },
+    {
+      "key": "votacao_secao_2016_RJ",
+      "local": "votacao_secao/2016/votacao_secao_2016_RJ.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2016_RJ.zip",
+      "tipo": "votacao_secao",
+      "ano": 2016,
+      "uf": "RJ"
+    },
+    {
+      "key": "votacao_secao_2016_RN",
+      "local": "votacao_secao/2016/votacao_secao_2016_RN.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2016_RN.zip",
+      "tipo": "votacao_secao",
+      "ano": 2016,
+      "uf": "RN"
+    },
+    {
+      "key": "votacao_secao_2016_RO",
+      "local": "votacao_secao/2016/votacao_secao_2016_RO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2016_RO.zip",
+      "tipo": "votacao_secao",
+      "ano": 2016,
+      "uf": "RO"
+    },
+    {
+      "key": "votacao_secao_2016_RR",
+      "local": "votacao_secao/2016/votacao_secao_2016_RR.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2016_RR.zip",
+      "tipo": "votacao_secao",
+      "ano": 2016,
+      "uf": "RR"
+    },
+    {
+      "key": "votacao_secao_2016_RS",
+      "local": "votacao_secao/2016/votacao_secao_2016_RS.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2016_RS.zip",
+      "tipo": "votacao_secao",
+      "ano": 2016,
+      "uf": "RS"
+    },
+    {
+      "key": "votacao_secao_2016_SC",
+      "local": "votacao_secao/2016/votacao_secao_2016_SC.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2016_SC.zip",
+      "tipo": "votacao_secao",
+      "ano": 2016,
+      "uf": "SC"
+    },
+    {
+      "key": "votacao_secao_2016_SE",
+      "local": "votacao_secao/2016/votacao_secao_2016_SE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2016_SE.zip",
+      "tipo": "votacao_secao",
+      "ano": 2016,
+      "uf": "SE"
+    },
+    {
+      "key": "votacao_secao_2016_TO",
+      "local": "votacao_secao/2016/votacao_secao_2016_TO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2016_TO.zip",
+      "tipo": "votacao_secao",
+      "ano": 2016,
+      "uf": "TO"
+    },
+    {
+      "key": "votacao_secao_2018_AC",
+      "local": "votacao_secao/2018/votacao_secao_2018_AC.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2018_AC.zip",
+      "tipo": "votacao_secao",
+      "ano": 2018,
+      "uf": "AC"
+    },
+    {
+      "key": "votacao_secao_2018_AL",
+      "local": "votacao_secao/2018/votacao_secao_2018_AL.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2018_AL.zip",
+      "tipo": "votacao_secao",
+      "ano": 2018,
+      "uf": "AL"
+    },
+    {
+      "key": "votacao_secao_2018_AM",
+      "local": "votacao_secao/2018/votacao_secao_2018_AM.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2018_AM.zip",
+      "tipo": "votacao_secao",
+      "ano": 2018,
+      "uf": "AM"
+    },
+    {
+      "key": "votacao_secao_2018_AP",
+      "local": "votacao_secao/2018/votacao_secao_2018_AP.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2018_AP.zip",
+      "tipo": "votacao_secao",
+      "ano": 2018,
+      "uf": "AP"
+    },
+    {
+      "key": "votacao_secao_2018_BA",
+      "local": "votacao_secao/2018/votacao_secao_2018_BA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2018_BA.zip",
+      "tipo": "votacao_secao",
+      "ano": 2018,
+      "uf": "BA"
+    },
+    {
+      "key": "votacao_secao_2018_CE",
+      "local": "votacao_secao/2018/votacao_secao_2018_CE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2018_CE.zip",
+      "tipo": "votacao_secao",
+      "ano": 2018,
+      "uf": "CE"
+    },
+    {
+      "key": "votacao_secao_2018_DF",
+      "local": "votacao_secao/2018/votacao_secao_2018_DF.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2018_DF.zip",
+      "tipo": "votacao_secao",
+      "ano": 2018,
+      "uf": "DF"
+    },
+    {
+      "key": "votacao_secao_2018_ES",
+      "local": "votacao_secao/2018/votacao_secao_2018_ES.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2018_ES.zip",
+      "tipo": "votacao_secao",
+      "ano": 2018,
+      "uf": "ES"
+    },
+    {
+      "key": "votacao_secao_2018_GO",
+      "local": "votacao_secao/2018/votacao_secao_2018_GO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2018_GO.zip",
+      "tipo": "votacao_secao",
+      "ano": 2018,
+      "uf": "GO"
+    },
+    {
+      "key": "votacao_secao_2018_MA",
+      "local": "votacao_secao/2018/votacao_secao_2018_MA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2018_MA.zip",
+      "tipo": "votacao_secao",
+      "ano": 2018,
+      "uf": "MA"
+    },
+    {
+      "key": "votacao_secao_2018_MG",
+      "local": "votacao_secao/2018/votacao_secao_2018_MG.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2018_MG.zip",
+      "tipo": "votacao_secao",
+      "ano": 2018,
+      "uf": "MG"
+    },
+    {
+      "key": "votacao_secao_2018_MS",
+      "local": "votacao_secao/2018/votacao_secao_2018_MS.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2018_MS.zip",
+      "tipo": "votacao_secao",
+      "ano": 2018,
+      "uf": "MS"
+    },
+    {
+      "key": "votacao_secao_2018_MT",
+      "local": "votacao_secao/2018/votacao_secao_2018_MT.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2018_MT.zip",
+      "tipo": "votacao_secao",
+      "ano": 2018,
+      "uf": "MT"
+    },
+    {
+      "key": "votacao_secao_2018_PA",
+      "local": "votacao_secao/2018/votacao_secao_2018_PA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2018_PA.zip",
+      "tipo": "votacao_secao",
+      "ano": 2018,
+      "uf": "PA"
+    },
+    {
+      "key": "votacao_secao_2018_PB",
+      "local": "votacao_secao/2018/votacao_secao_2018_PB.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2018_PB.zip",
+      "tipo": "votacao_secao",
+      "ano": 2018,
+      "uf": "PB"
+    },
+    {
+      "key": "votacao_secao_2018_PE",
+      "local": "votacao_secao/2018/votacao_secao_2018_PE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2018_PE.zip",
+      "tipo": "votacao_secao",
+      "ano": 2018,
+      "uf": "PE"
+    },
+    {
+      "key": "votacao_secao_2018_PI",
+      "local": "votacao_secao/2018/votacao_secao_2018_PI.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2018_PI.zip",
+      "tipo": "votacao_secao",
+      "ano": 2018,
+      "uf": "PI"
+    },
+    {
+      "key": "votacao_secao_2018_PR",
+      "local": "votacao_secao/2018/votacao_secao_2018_PR.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2018_PR.zip",
+      "tipo": "votacao_secao",
+      "ano": 2018,
+      "uf": "PR"
+    },
+    {
+      "key": "votacao_secao_2018_RJ",
+      "local": "votacao_secao/2018/votacao_secao_2018_RJ.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2018_RJ.zip",
+      "tipo": "votacao_secao",
+      "ano": 2018,
+      "uf": "RJ"
+    },
+    {
+      "key": "votacao_secao_2018_RN",
+      "local": "votacao_secao/2018/votacao_secao_2018_RN.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2018_RN.zip",
+      "tipo": "votacao_secao",
+      "ano": 2018,
+      "uf": "RN"
+    },
+    {
+      "key": "votacao_secao_2018_RO",
+      "local": "votacao_secao/2018/votacao_secao_2018_RO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2018_RO.zip",
+      "tipo": "votacao_secao",
+      "ano": 2018,
+      "uf": "RO"
+    },
+    {
+      "key": "votacao_secao_2018_RR",
+      "local": "votacao_secao/2018/votacao_secao_2018_RR.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2018_RR.zip",
+      "tipo": "votacao_secao",
+      "ano": 2018,
+      "uf": "RR"
+    },
+    {
+      "key": "votacao_secao_2018_RS",
+      "local": "votacao_secao/2018/votacao_secao_2018_RS.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2018_RS.zip",
+      "tipo": "votacao_secao",
+      "ano": 2018,
+      "uf": "RS"
+    },
+    {
+      "key": "votacao_secao_2018_SC",
+      "local": "votacao_secao/2018/votacao_secao_2018_SC.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2018_SC.zip",
+      "tipo": "votacao_secao",
+      "ano": 2018,
+      "uf": "SC"
+    },
+    {
+      "key": "votacao_secao_2018_SE",
+      "local": "votacao_secao/2018/votacao_secao_2018_SE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2018_SE.zip",
+      "tipo": "votacao_secao",
+      "ano": 2018,
+      "uf": "SE"
+    },
+    {
+      "key": "votacao_secao_2018_TO",
+      "local": "votacao_secao/2018/votacao_secao_2018_TO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2018_TO.zip",
+      "tipo": "votacao_secao",
+      "ano": 2018,
+      "uf": "TO"
+    },
+    {
+      "key": "votacao_secao_2020_AC",
+      "local": "votacao_secao/2020/votacao_secao_2020_AC.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2020_AC.zip",
+      "tipo": "votacao_secao",
+      "ano": 2020,
+      "uf": "AC"
+    },
+    {
+      "key": "votacao_secao_2020_AL",
+      "local": "votacao_secao/2020/votacao_secao_2020_AL.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2020_AL.zip",
+      "tipo": "votacao_secao",
+      "ano": 2020,
+      "uf": "AL"
+    },
+    {
+      "key": "votacao_secao_2020_AM",
+      "local": "votacao_secao/2020/votacao_secao_2020_AM.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2020_AM.zip",
+      "tipo": "votacao_secao",
+      "ano": 2020,
+      "uf": "AM"
+    },
+    {
+      "key": "votacao_secao_2020_AP",
+      "local": "votacao_secao/2020/votacao_secao_2020_AP.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2020_AP.zip",
+      "tipo": "votacao_secao",
+      "ano": 2020,
+      "uf": "AP"
+    },
+    {
+      "key": "votacao_secao_2020_BA",
+      "local": "votacao_secao/2020/votacao_secao_2020_BA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2020_BA.zip",
+      "tipo": "votacao_secao",
+      "ano": 2020,
+      "uf": "BA"
+    },
+    {
+      "key": "votacao_secao_2020_CE",
+      "local": "votacao_secao/2020/votacao_secao_2020_CE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2020_CE.zip",
+      "tipo": "votacao_secao",
+      "ano": 2020,
+      "uf": "CE"
+    },
+    {
+      "key": "votacao_secao_2020_DF",
+      "local": "votacao_secao/2020/votacao_secao_2020_DF.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2020_DF.zip",
+      "tipo": "votacao_secao",
+      "ano": 2020,
+      "uf": "DF"
+    },
+    {
+      "key": "votacao_secao_2020_ES",
+      "local": "votacao_secao/2020/votacao_secao_2020_ES.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2020_ES.zip",
+      "tipo": "votacao_secao",
+      "ano": 2020,
+      "uf": "ES"
+    },
+    {
+      "key": "votacao_secao_2020_GO",
+      "local": "votacao_secao/2020/votacao_secao_2020_GO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2020_GO.zip",
+      "tipo": "votacao_secao",
+      "ano": 2020,
+      "uf": "GO"
+    },
+    {
+      "key": "votacao_secao_2020_MA",
+      "local": "votacao_secao/2020/votacao_secao_2020_MA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2020_MA.zip",
+      "tipo": "votacao_secao",
+      "ano": 2020,
+      "uf": "MA"
+    },
+    {
+      "key": "votacao_secao_2020_MG",
+      "local": "votacao_secao/2020/votacao_secao_2020_MG.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2020_MG.zip",
+      "tipo": "votacao_secao",
+      "ano": 2020,
+      "uf": "MG"
+    },
+    {
+      "key": "votacao_secao_2020_MS",
+      "local": "votacao_secao/2020/votacao_secao_2020_MS.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2020_MS.zip",
+      "tipo": "votacao_secao",
+      "ano": 2020,
+      "uf": "MS"
+    },
+    {
+      "key": "votacao_secao_2020_MT",
+      "local": "votacao_secao/2020/votacao_secao_2020_MT.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2020_MT.zip",
+      "tipo": "votacao_secao",
+      "ano": 2020,
+      "uf": "MT"
+    },
+    {
+      "key": "votacao_secao_2020_PA",
+      "local": "votacao_secao/2020/votacao_secao_2020_PA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2020_PA.zip",
+      "tipo": "votacao_secao",
+      "ano": 2020,
+      "uf": "PA"
+    },
+    {
+      "key": "votacao_secao_2020_PB",
+      "local": "votacao_secao/2020/votacao_secao_2020_PB.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2020_PB.zip",
+      "tipo": "votacao_secao",
+      "ano": 2020,
+      "uf": "PB"
+    },
+    {
+      "key": "votacao_secao_2020_PE",
+      "local": "votacao_secao/2020/votacao_secao_2020_PE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2020_PE.zip",
+      "tipo": "votacao_secao",
+      "ano": 2020,
+      "uf": "PE"
+    },
+    {
+      "key": "votacao_secao_2020_PI",
+      "local": "votacao_secao/2020/votacao_secao_2020_PI.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2020_PI.zip",
+      "tipo": "votacao_secao",
+      "ano": 2020,
+      "uf": "PI"
+    },
+    {
+      "key": "votacao_secao_2020_PR",
+      "local": "votacao_secao/2020/votacao_secao_2020_PR.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2020_PR.zip",
+      "tipo": "votacao_secao",
+      "ano": 2020,
+      "uf": "PR"
+    },
+    {
+      "key": "votacao_secao_2020_RJ",
+      "local": "votacao_secao/2020/votacao_secao_2020_RJ.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2020_RJ.zip",
+      "tipo": "votacao_secao",
+      "ano": 2020,
+      "uf": "RJ"
+    },
+    {
+      "key": "votacao_secao_2020_RN",
+      "local": "votacao_secao/2020/votacao_secao_2020_RN.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2020_RN.zip",
+      "tipo": "votacao_secao",
+      "ano": 2020,
+      "uf": "RN"
+    },
+    {
+      "key": "votacao_secao_2020_RO",
+      "local": "votacao_secao/2020/votacao_secao_2020_RO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2020_RO.zip",
+      "tipo": "votacao_secao",
+      "ano": 2020,
+      "uf": "RO"
+    },
+    {
+      "key": "votacao_secao_2020_RR",
+      "local": "votacao_secao/2020/votacao_secao_2020_RR.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2020_RR.zip",
+      "tipo": "votacao_secao",
+      "ano": 2020,
+      "uf": "RR"
+    },
+    {
+      "key": "votacao_secao_2020_RS",
+      "local": "votacao_secao/2020/votacao_secao_2020_RS.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2020_RS.zip",
+      "tipo": "votacao_secao",
+      "ano": 2020,
+      "uf": "RS"
+    },
+    {
+      "key": "votacao_secao_2020_SC",
+      "local": "votacao_secao/2020/votacao_secao_2020_SC.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2020_SC.zip",
+      "tipo": "votacao_secao",
+      "ano": 2020,
+      "uf": "SC"
+    },
+    {
+      "key": "votacao_secao_2020_SE",
+      "local": "votacao_secao/2020/votacao_secao_2020_SE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2020_SE.zip",
+      "tipo": "votacao_secao",
+      "ano": 2020,
+      "uf": "SE"
+    },
+    {
+      "key": "votacao_secao_2020_TO",
+      "local": "votacao_secao/2020/votacao_secao_2020_TO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2020_TO.zip",
+      "tipo": "votacao_secao",
+      "ano": 2020,
+      "uf": "TO"
+    },
+    {
+      "key": "votacao_secao_2022_AC",
+      "local": "votacao_secao/2022/votacao_secao_2022_AC.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2022_AC.zip",
+      "tipo": "votacao_secao",
+      "ano": 2022,
+      "uf": "AC"
+    },
+    {
+      "key": "votacao_secao_2022_AL",
+      "local": "votacao_secao/2022/votacao_secao_2022_AL.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2022_AL.zip",
+      "tipo": "votacao_secao",
+      "ano": 2022,
+      "uf": "AL"
+    },
+    {
+      "key": "votacao_secao_2022_AM",
+      "local": "votacao_secao/2022/votacao_secao_2022_AM.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2022_AM.zip",
+      "tipo": "votacao_secao",
+      "ano": 2022,
+      "uf": "AM"
+    },
+    {
+      "key": "votacao_secao_2022_AP",
+      "local": "votacao_secao/2022/votacao_secao_2022_AP.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2022_AP.zip",
+      "tipo": "votacao_secao",
+      "ano": 2022,
+      "uf": "AP"
+    },
+    {
+      "key": "votacao_secao_2022_BA",
+      "local": "votacao_secao/2022/votacao_secao_2022_BA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2022_BA.zip",
+      "tipo": "votacao_secao",
+      "ano": 2022,
+      "uf": "BA"
+    },
+    {
+      "key": "votacao_secao_2022_CE",
+      "local": "votacao_secao/2022/votacao_secao_2022_CE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2022_CE.zip",
+      "tipo": "votacao_secao",
+      "ano": 2022,
+      "uf": "CE"
+    },
+    {
+      "key": "votacao_secao_2022_DF",
+      "local": "votacao_secao/2022/votacao_secao_2022_DF.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2022_DF.zip",
+      "tipo": "votacao_secao",
+      "ano": 2022,
+      "uf": "DF"
+    },
+    {
+      "key": "votacao_secao_2022_ES",
+      "local": "votacao_secao/2022/votacao_secao_2022_ES.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2022_ES.zip",
+      "tipo": "votacao_secao",
+      "ano": 2022,
+      "uf": "ES"
+    },
+    {
+      "key": "votacao_secao_2022_GO",
+      "local": "votacao_secao/2022/votacao_secao_2022_GO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2022_GO.zip",
+      "tipo": "votacao_secao",
+      "ano": 2022,
+      "uf": "GO"
+    },
+    {
+      "key": "votacao_secao_2022_MA",
+      "local": "votacao_secao/2022/votacao_secao_2022_MA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2022_MA.zip",
+      "tipo": "votacao_secao",
+      "ano": 2022,
+      "uf": "MA"
+    },
+    {
+      "key": "votacao_secao_2022_MG",
+      "local": "votacao_secao/2022/votacao_secao_2022_MG.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2022_MG.zip",
+      "tipo": "votacao_secao",
+      "ano": 2022,
+      "uf": "MG"
+    },
+    {
+      "key": "votacao_secao_2022_MS",
+      "local": "votacao_secao/2022/votacao_secao_2022_MS.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2022_MS.zip",
+      "tipo": "votacao_secao",
+      "ano": 2022,
+      "uf": "MS"
+    },
+    {
+      "key": "votacao_secao_2022_MT",
+      "local": "votacao_secao/2022/votacao_secao_2022_MT.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2022_MT.zip",
+      "tipo": "votacao_secao",
+      "ano": 2022,
+      "uf": "MT"
+    },
+    {
+      "key": "votacao_secao_2022_PA",
+      "local": "votacao_secao/2022/votacao_secao_2022_PA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2022_PA.zip",
+      "tipo": "votacao_secao",
+      "ano": 2022,
+      "uf": "PA"
+    },
+    {
+      "key": "votacao_secao_2022_PB",
+      "local": "votacao_secao/2022/votacao_secao_2022_PB.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2022_PB.zip",
+      "tipo": "votacao_secao",
+      "ano": 2022,
+      "uf": "PB"
+    },
+    {
+      "key": "votacao_secao_2022_PE",
+      "local": "votacao_secao/2022/votacao_secao_2022_PE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2022_PE.zip",
+      "tipo": "votacao_secao",
+      "ano": 2022,
+      "uf": "PE"
+    },
+    {
+      "key": "votacao_secao_2022_PI",
+      "local": "votacao_secao/2022/votacao_secao_2022_PI.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2022_PI.zip",
+      "tipo": "votacao_secao",
+      "ano": 2022,
+      "uf": "PI"
+    },
+    {
+      "key": "votacao_secao_2022_PR",
+      "local": "votacao_secao/2022/votacao_secao_2022_PR.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2022_PR.zip",
+      "tipo": "votacao_secao",
+      "ano": 2022,
+      "uf": "PR"
+    },
+    {
+      "key": "votacao_secao_2022_RJ",
+      "local": "votacao_secao/2022/votacao_secao_2022_RJ.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2022_RJ.zip",
+      "tipo": "votacao_secao",
+      "ano": 2022,
+      "uf": "RJ"
+    },
+    {
+      "key": "votacao_secao_2022_RN",
+      "local": "votacao_secao/2022/votacao_secao_2022_RN.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2022_RN.zip",
+      "tipo": "votacao_secao",
+      "ano": 2022,
+      "uf": "RN"
+    },
+    {
+      "key": "votacao_secao_2022_RO",
+      "local": "votacao_secao/2022/votacao_secao_2022_RO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2022_RO.zip",
+      "tipo": "votacao_secao",
+      "ano": 2022,
+      "uf": "RO"
+    },
+    {
+      "key": "votacao_secao_2022_RR",
+      "local": "votacao_secao/2022/votacao_secao_2022_RR.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2022_RR.zip",
+      "tipo": "votacao_secao",
+      "ano": 2022,
+      "uf": "RR"
+    },
+    {
+      "key": "votacao_secao_2022_RS",
+      "local": "votacao_secao/2022/votacao_secao_2022_RS.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2022_RS.zip",
+      "tipo": "votacao_secao",
+      "ano": 2022,
+      "uf": "RS"
+    },
+    {
+      "key": "votacao_secao_2022_SC",
+      "local": "votacao_secao/2022/votacao_secao_2022_SC.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2022_SC.zip",
+      "tipo": "votacao_secao",
+      "ano": 2022,
+      "uf": "SC"
+    },
+    {
+      "key": "votacao_secao_2022_SE",
+      "local": "votacao_secao/2022/votacao_secao_2022_SE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2022_SE.zip",
+      "tipo": "votacao_secao",
+      "ano": 2022,
+      "uf": "SE"
+    },
+    {
+      "key": "votacao_secao_2022_TO",
+      "local": "votacao_secao/2022/votacao_secao_2022_TO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2022_TO.zip",
+      "tipo": "votacao_secao",
+      "ano": 2022,
+      "uf": "TO"
+    },
+    {
+      "key": "votacao_secao_2024_AC",
+      "local": "votacao_secao/2024/votacao_secao_2024_AC.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_AC.zip",
+      "tipo": "votacao_secao",
+      "ano": 2024,
+      "uf": "AC"
+    },
+    {
+      "key": "votacao_secao_2024_AL",
+      "local": "votacao_secao/2024/votacao_secao_2024_AL.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_AL.zip",
+      "tipo": "votacao_secao",
+      "ano": 2024,
+      "uf": "AL"
+    },
+    {
+      "key": "votacao_secao_2024_AM",
+      "local": "votacao_secao/2024/votacao_secao_2024_AM.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_AM.zip",
+      "tipo": "votacao_secao",
+      "ano": 2024,
+      "uf": "AM"
+    },
+    {
+      "key": "votacao_secao_2024_AP",
+      "local": "votacao_secao/2024/votacao_secao_2024_AP.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_AP.zip",
+      "tipo": "votacao_secao",
+      "ano": 2024,
+      "uf": "AP"
+    },
+    {
+      "key": "votacao_secao_2024_BA",
+      "local": "votacao_secao/2024/votacao_secao_2024_BA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_BA.zip",
+      "tipo": "votacao_secao",
+      "ano": 2024,
+      "uf": "BA"
+    },
+    {
+      "key": "votacao_secao_2024_CE",
+      "local": "votacao_secao/2024/votacao_secao_2024_CE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_CE.zip",
+      "tipo": "votacao_secao",
+      "ano": 2024,
+      "uf": "CE"
+    },
+    {
+      "key": "votacao_secao_2024_DF",
+      "local": "votacao_secao/2024/votacao_secao_2024_DF.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_DF.zip",
+      "tipo": "votacao_secao",
+      "ano": 2024,
+      "uf": "DF"
+    },
+    {
+      "key": "votacao_secao_2024_ES",
+      "local": "votacao_secao/2024/votacao_secao_2024_ES.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_ES.zip",
+      "tipo": "votacao_secao",
+      "ano": 2024,
+      "uf": "ES"
+    },
+    {
+      "key": "votacao_secao_2024_GO",
+      "local": "votacao_secao/2024/votacao_secao_2024_GO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_GO.zip",
+      "tipo": "votacao_secao",
+      "ano": 2024,
+      "uf": "GO"
+    },
+    {
+      "key": "votacao_secao_2024_MA",
+      "local": "votacao_secao/2024/votacao_secao_2024_MA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_MA.zip",
+      "tipo": "votacao_secao",
+      "ano": 2024,
+      "uf": "MA"
+    },
+    {
+      "key": "votacao_secao_2024_MG",
+      "local": "votacao_secao/2024/votacao_secao_2024_MG.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_MG.zip",
+      "tipo": "votacao_secao",
+      "ano": 2024,
+      "uf": "MG"
+    },
+    {
+      "key": "votacao_secao_2024_MS",
+      "local": "votacao_secao/2024/votacao_secao_2024_MS.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_MS.zip",
+      "tipo": "votacao_secao",
+      "ano": 2024,
+      "uf": "MS"
+    },
+    {
+      "key": "votacao_secao_2024_MT",
+      "local": "votacao_secao/2024/votacao_secao_2024_MT.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_MT.zip",
+      "tipo": "votacao_secao",
+      "ano": 2024,
+      "uf": "MT"
+    },
+    {
+      "key": "votacao_secao_2024_PA",
+      "local": "votacao_secao/2024/votacao_secao_2024_PA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_PA.zip",
+      "tipo": "votacao_secao",
+      "ano": 2024,
+      "uf": "PA"
+    },
+    {
+      "key": "votacao_secao_2024_PB",
+      "local": "votacao_secao/2024/votacao_secao_2024_PB.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_PB.zip",
+      "tipo": "votacao_secao",
+      "ano": 2024,
+      "uf": "PB"
+    },
+    {
+      "key": "votacao_secao_2024_PE",
+      "local": "votacao_secao/2024/votacao_secao_2024_PE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_PE.zip",
+      "tipo": "votacao_secao",
+      "ano": 2024,
+      "uf": "PE"
+    },
+    {
+      "key": "votacao_secao_2024_PI",
+      "local": "votacao_secao/2024/votacao_secao_2024_PI.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_PI.zip",
+      "tipo": "votacao_secao",
+      "ano": 2024,
+      "uf": "PI"
+    },
+    {
+      "key": "votacao_secao_2024_PR",
+      "local": "votacao_secao/2024/votacao_secao_2024_PR.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_PR.zip",
+      "tipo": "votacao_secao",
+      "ano": 2024,
+      "uf": "PR"
+    },
+    {
+      "key": "votacao_secao_2024_RJ",
+      "local": "votacao_secao/2024/votacao_secao_2024_RJ.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_RJ.zip",
+      "tipo": "votacao_secao",
+      "ano": 2024,
+      "uf": "RJ"
+    },
+    {
+      "key": "votacao_secao_2024_RN",
+      "local": "votacao_secao/2024/votacao_secao_2024_RN.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_RN.zip",
+      "tipo": "votacao_secao",
+      "ano": 2024,
+      "uf": "RN"
+    },
+    {
+      "key": "votacao_secao_2024_RO",
+      "local": "votacao_secao/2024/votacao_secao_2024_RO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_RO.zip",
+      "tipo": "votacao_secao",
+      "ano": 2024,
+      "uf": "RO"
+    },
+    {
+      "key": "votacao_secao_2024_RR",
+      "local": "votacao_secao/2024/votacao_secao_2024_RR.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_RR.zip",
+      "tipo": "votacao_secao",
+      "ano": 2024,
+      "uf": "RR"
+    },
+    {
+      "key": "votacao_secao_2024_RS",
+      "local": "votacao_secao/2024/votacao_secao_2024_RS.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_RS.zip",
+      "tipo": "votacao_secao",
+      "ano": 2024,
+      "uf": "RS"
+    },
+    {
+      "key": "votacao_secao_2024_SC",
+      "local": "votacao_secao/2024/votacao_secao_2024_SC.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_SC.zip",
+      "tipo": "votacao_secao",
+      "ano": 2024,
+      "uf": "SC"
+    },
+    {
+      "key": "votacao_secao_2024_SE",
+      "local": "votacao_secao/2024/votacao_secao_2024_SE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_SE.zip",
+      "tipo": "votacao_secao",
+      "ano": 2024,
+      "uf": "SE"
+    },
+    {
+      "key": "votacao_secao_2024_TO",
+      "local": "votacao_secao/2024/votacao_secao_2024_TO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_TO.zip",
+      "tipo": "votacao_secao",
+      "ano": 2024,
+      "uf": "TO"
+    },
+    {
+      "key": "perfil_secao_2020_AC",
+      "local": "eleitorado_secao/2020/perfil_eleitor_secao_2020_AC.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2020_AC.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2020,
+      "uf": "AC"
+    },
+    {
+      "key": "perfil_secao_2020_AL",
+      "local": "eleitorado_secao/2020/perfil_eleitor_secao_2020_AL.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2020_AL.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2020,
+      "uf": "AL"
+    },
+    {
+      "key": "perfil_secao_2020_AM",
+      "local": "eleitorado_secao/2020/perfil_eleitor_secao_2020_AM.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2020_AM.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2020,
+      "uf": "AM"
+    },
+    {
+      "key": "perfil_secao_2020_AP",
+      "local": "eleitorado_secao/2020/perfil_eleitor_secao_2020_AP.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2020_AP.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2020,
+      "uf": "AP"
+    },
+    {
+      "key": "perfil_secao_2020_BA",
+      "local": "eleitorado_secao/2020/perfil_eleitor_secao_2020_BA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2020_BA.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2020,
+      "uf": "BA"
+    },
+    {
+      "key": "perfil_secao_2020_CE",
+      "local": "eleitorado_secao/2020/perfil_eleitor_secao_2020_CE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2020_CE.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2020,
+      "uf": "CE"
+    },
+    {
+      "key": "perfil_secao_2020_DF",
+      "local": "eleitorado_secao/2020/perfil_eleitor_secao_2020_DF.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2020_DF.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2020,
+      "uf": "DF"
+    },
+    {
+      "key": "perfil_secao_2020_ES",
+      "local": "eleitorado_secao/2020/perfil_eleitor_secao_2020_ES.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2020_ES.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2020,
+      "uf": "ES"
+    },
+    {
+      "key": "perfil_secao_2020_GO",
+      "local": "eleitorado_secao/2020/perfil_eleitor_secao_2020_GO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2020_GO.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2020,
+      "uf": "GO"
+    },
+    {
+      "key": "perfil_secao_2020_MA",
+      "local": "eleitorado_secao/2020/perfil_eleitor_secao_2020_MA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2020_MA.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2020,
+      "uf": "MA"
+    },
+    {
+      "key": "perfil_secao_2020_MG",
+      "local": "eleitorado_secao/2020/perfil_eleitor_secao_2020_MG.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2020_MG.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2020,
+      "uf": "MG"
+    },
+    {
+      "key": "perfil_secao_2020_MS",
+      "local": "eleitorado_secao/2020/perfil_eleitor_secao_2020_MS.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2020_MS.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2020,
+      "uf": "MS"
+    },
+    {
+      "key": "perfil_secao_2020_MT",
+      "local": "eleitorado_secao/2020/perfil_eleitor_secao_2020_MT.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2020_MT.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2020,
+      "uf": "MT"
+    },
+    {
+      "key": "perfil_secao_2020_PA",
+      "local": "eleitorado_secao/2020/perfil_eleitor_secao_2020_PA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2020_PA.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2020,
+      "uf": "PA"
+    },
+    {
+      "key": "perfil_secao_2020_PB",
+      "local": "eleitorado_secao/2020/perfil_eleitor_secao_2020_PB.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2020_PB.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2020,
+      "uf": "PB"
+    },
+    {
+      "key": "perfil_secao_2020_PE",
+      "local": "eleitorado_secao/2020/perfil_eleitor_secao_2020_PE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2020_PE.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2020,
+      "uf": "PE"
+    },
+    {
+      "key": "perfil_secao_2020_PI",
+      "local": "eleitorado_secao/2020/perfil_eleitor_secao_2020_PI.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2020_PI.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2020,
+      "uf": "PI"
+    },
+    {
+      "key": "perfil_secao_2020_PR",
+      "local": "eleitorado_secao/2020/perfil_eleitor_secao_2020_PR.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2020_PR.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2020,
+      "uf": "PR"
+    },
+    {
+      "key": "perfil_secao_2020_RJ",
+      "local": "eleitorado_secao/2020/perfil_eleitor_secao_2020_RJ.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2020_RJ.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2020,
+      "uf": "RJ"
+    },
+    {
+      "key": "perfil_secao_2020_RN",
+      "local": "eleitorado_secao/2020/perfil_eleitor_secao_2020_RN.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2020_RN.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2020,
+      "uf": "RN"
+    },
+    {
+      "key": "perfil_secao_2020_RO",
+      "local": "eleitorado_secao/2020/perfil_eleitor_secao_2020_RO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2020_RO.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2020,
+      "uf": "RO"
+    },
+    {
+      "key": "perfil_secao_2020_RR",
+      "local": "eleitorado_secao/2020/perfil_eleitor_secao_2020_RR.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2020_RR.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2020,
+      "uf": "RR"
+    },
+    {
+      "key": "perfil_secao_2020_RS",
+      "local": "eleitorado_secao/2020/perfil_eleitor_secao_2020_RS.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2020_RS.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2020,
+      "uf": "RS"
+    },
+    {
+      "key": "perfil_secao_2020_SC",
+      "local": "eleitorado_secao/2020/perfil_eleitor_secao_2020_SC.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2020_SC.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2020,
+      "uf": "SC"
+    },
+    {
+      "key": "perfil_secao_2020_SE",
+      "local": "eleitorado_secao/2020/perfil_eleitor_secao_2020_SE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2020_SE.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2020,
+      "uf": "SE"
+    },
+    {
+      "key": "perfil_secao_2020_TO",
+      "local": "eleitorado_secao/2020/perfil_eleitor_secao_2020_TO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2020_TO.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2020,
+      "uf": "TO"
+    },
+    {
+      "key": "perfil_secao_2022_AC",
+      "local": "eleitorado_secao/2022/perfil_eleitor_secao_2022_AC.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2022_AC.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2022,
+      "uf": "AC"
+    },
+    {
+      "key": "perfil_secao_2022_AL",
+      "local": "eleitorado_secao/2022/perfil_eleitor_secao_2022_AL.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2022_AL.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2022,
+      "uf": "AL"
+    },
+    {
+      "key": "perfil_secao_2022_AM",
+      "local": "eleitorado_secao/2022/perfil_eleitor_secao_2022_AM.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2022_AM.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2022,
+      "uf": "AM"
+    },
+    {
+      "key": "perfil_secao_2022_AP",
+      "local": "eleitorado_secao/2022/perfil_eleitor_secao_2022_AP.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2022_AP.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2022,
+      "uf": "AP"
+    },
+    {
+      "key": "perfil_secao_2022_BA",
+      "local": "eleitorado_secao/2022/perfil_eleitor_secao_2022_BA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2022_BA.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2022,
+      "uf": "BA"
+    },
+    {
+      "key": "perfil_secao_2022_CE",
+      "local": "eleitorado_secao/2022/perfil_eleitor_secao_2022_CE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2022_CE.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2022,
+      "uf": "CE"
+    },
+    {
+      "key": "perfil_secao_2022_DF",
+      "local": "eleitorado_secao/2022/perfil_eleitor_secao_2022_DF.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2022_DF.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2022,
+      "uf": "DF"
+    },
+    {
+      "key": "perfil_secao_2022_ES",
+      "local": "eleitorado_secao/2022/perfil_eleitor_secao_2022_ES.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2022_ES.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2022,
+      "uf": "ES"
+    },
+    {
+      "key": "perfil_secao_2022_GO",
+      "local": "eleitorado_secao/2022/perfil_eleitor_secao_2022_GO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2022_GO.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2022,
+      "uf": "GO"
+    },
+    {
+      "key": "perfil_secao_2022_MA",
+      "local": "eleitorado_secao/2022/perfil_eleitor_secao_2022_MA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2022_MA.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2022,
+      "uf": "MA"
+    },
+    {
+      "key": "perfil_secao_2022_MG",
+      "local": "eleitorado_secao/2022/perfil_eleitor_secao_2022_MG.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2022_MG.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2022,
+      "uf": "MG"
+    },
+    {
+      "key": "perfil_secao_2022_MS",
+      "local": "eleitorado_secao/2022/perfil_eleitor_secao_2022_MS.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2022_MS.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2022,
+      "uf": "MS"
+    },
+    {
+      "key": "perfil_secao_2022_MT",
+      "local": "eleitorado_secao/2022/perfil_eleitor_secao_2022_MT.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2022_MT.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2022,
+      "uf": "MT"
+    },
+    {
+      "key": "perfil_secao_2022_PA",
+      "local": "eleitorado_secao/2022/perfil_eleitor_secao_2022_PA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2022_PA.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2022,
+      "uf": "PA"
+    },
+    {
+      "key": "perfil_secao_2022_PB",
+      "local": "eleitorado_secao/2022/perfil_eleitor_secao_2022_PB.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2022_PB.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2022,
+      "uf": "PB"
+    },
+    {
+      "key": "perfil_secao_2022_PE",
+      "local": "eleitorado_secao/2022/perfil_eleitor_secao_2022_PE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2022_PE.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2022,
+      "uf": "PE"
+    },
+    {
+      "key": "perfil_secao_2022_PI",
+      "local": "eleitorado_secao/2022/perfil_eleitor_secao_2022_PI.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2022_PI.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2022,
+      "uf": "PI"
+    },
+    {
+      "key": "perfil_secao_2022_PR",
+      "local": "eleitorado_secao/2022/perfil_eleitor_secao_2022_PR.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2022_PR.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2022,
+      "uf": "PR"
+    },
+    {
+      "key": "perfil_secao_2022_RJ",
+      "local": "eleitorado_secao/2022/perfil_eleitor_secao_2022_RJ.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2022_RJ.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2022,
+      "uf": "RJ"
+    },
+    {
+      "key": "perfil_secao_2022_RN",
+      "local": "eleitorado_secao/2022/perfil_eleitor_secao_2022_RN.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2022_RN.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2022,
+      "uf": "RN"
+    },
+    {
+      "key": "perfil_secao_2022_RO",
+      "local": "eleitorado_secao/2022/perfil_eleitor_secao_2022_RO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2022_RO.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2022,
+      "uf": "RO"
+    },
+    {
+      "key": "perfil_secao_2022_RR",
+      "local": "eleitorado_secao/2022/perfil_eleitor_secao_2022_RR.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2022_RR.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2022,
+      "uf": "RR"
+    },
+    {
+      "key": "perfil_secao_2022_RS",
+      "local": "eleitorado_secao/2022/perfil_eleitor_secao_2022_RS.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2022_RS.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2022,
+      "uf": "RS"
+    },
+    {
+      "key": "perfil_secao_2022_SC",
+      "local": "eleitorado_secao/2022/perfil_eleitor_secao_2022_SC.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2022_SC.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2022,
+      "uf": "SC"
+    },
+    {
+      "key": "perfil_secao_2022_SE",
+      "local": "eleitorado_secao/2022/perfil_eleitor_secao_2022_SE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2022_SE.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2022,
+      "uf": "SE"
+    },
+    {
+      "key": "perfil_secao_2022_TO",
+      "local": "eleitorado_secao/2022/perfil_eleitor_secao_2022_TO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2022_TO.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2022,
+      "uf": "TO"
+    },
+    {
+      "key": "perfil_secao_2024_AC",
+      "local": "eleitorado_secao/2024/perfil_eleitor_secao_2024_AC.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2024_AC.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2024,
+      "uf": "AC"
+    },
+    {
+      "key": "perfil_secao_2024_AL",
+      "local": "eleitorado_secao/2024/perfil_eleitor_secao_2024_AL.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2024_AL.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2024,
+      "uf": "AL"
+    },
+    {
+      "key": "perfil_secao_2024_AM",
+      "local": "eleitorado_secao/2024/perfil_eleitor_secao_2024_AM.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2024_AM.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2024,
+      "uf": "AM"
+    },
+    {
+      "key": "perfil_secao_2024_AP",
+      "local": "eleitorado_secao/2024/perfil_eleitor_secao_2024_AP.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2024_AP.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2024,
+      "uf": "AP"
+    },
+    {
+      "key": "perfil_secao_2024_BA",
+      "local": "eleitorado_secao/2024/perfil_eleitor_secao_2024_BA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2024_BA.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2024,
+      "uf": "BA"
+    },
+    {
+      "key": "perfil_secao_2024_CE",
+      "local": "eleitorado_secao/2024/perfil_eleitor_secao_2024_CE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2024_CE.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2024,
+      "uf": "CE"
+    },
+    {
+      "key": "perfil_secao_2024_DF",
+      "local": "eleitorado_secao/2024/perfil_eleitor_secao_2024_DF.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2024_DF.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2024,
+      "uf": "DF"
+    },
+    {
+      "key": "perfil_secao_2024_ES",
+      "local": "eleitorado_secao/2024/perfil_eleitor_secao_2024_ES.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2024_ES.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2024,
+      "uf": "ES"
+    },
+    {
+      "key": "perfil_secao_2024_GO",
+      "local": "eleitorado_secao/2024/perfil_eleitor_secao_2024_GO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2024_GO.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2024,
+      "uf": "GO"
+    },
+    {
+      "key": "perfil_secao_2024_MA",
+      "local": "eleitorado_secao/2024/perfil_eleitor_secao_2024_MA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2024_MA.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2024,
+      "uf": "MA"
+    },
+    {
+      "key": "perfil_secao_2024_MG",
+      "local": "eleitorado_secao/2024/perfil_eleitor_secao_2024_MG.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2024_MG.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2024,
+      "uf": "MG"
+    },
+    {
+      "key": "perfil_secao_2024_MS",
+      "local": "eleitorado_secao/2024/perfil_eleitor_secao_2024_MS.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2024_MS.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2024,
+      "uf": "MS"
+    },
+    {
+      "key": "perfil_secao_2024_MT",
+      "local": "eleitorado_secao/2024/perfil_eleitor_secao_2024_MT.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2024_MT.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2024,
+      "uf": "MT"
+    },
+    {
+      "key": "perfil_secao_2024_PA",
+      "local": "eleitorado_secao/2024/perfil_eleitor_secao_2024_PA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2024_PA.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2024,
+      "uf": "PA"
+    },
+    {
+      "key": "perfil_secao_2024_PB",
+      "local": "eleitorado_secao/2024/perfil_eleitor_secao_2024_PB.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2024_PB.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2024,
+      "uf": "PB"
+    },
+    {
+      "key": "perfil_secao_2024_PE",
+      "local": "eleitorado_secao/2024/perfil_eleitor_secao_2024_PE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2024_PE.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2024,
+      "uf": "PE"
+    },
+    {
+      "key": "perfil_secao_2024_PI",
+      "local": "eleitorado_secao/2024/perfil_eleitor_secao_2024_PI.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2024_PI.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2024,
+      "uf": "PI"
+    },
+    {
+      "key": "perfil_secao_2024_PR",
+      "local": "eleitorado_secao/2024/perfil_eleitor_secao_2024_PR.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2024_PR.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2024,
+      "uf": "PR"
+    },
+    {
+      "key": "perfil_secao_2024_RJ",
+      "local": "eleitorado_secao/2024/perfil_eleitor_secao_2024_RJ.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2024_RJ.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2024,
+      "uf": "RJ"
+    },
+    {
+      "key": "perfil_secao_2024_RN",
+      "local": "eleitorado_secao/2024/perfil_eleitor_secao_2024_RN.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2024_RN.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2024,
+      "uf": "RN"
+    },
+    {
+      "key": "perfil_secao_2024_RO",
+      "local": "eleitorado_secao/2024/perfil_eleitor_secao_2024_RO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2024_RO.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2024,
+      "uf": "RO"
+    },
+    {
+      "key": "perfil_secao_2024_RR",
+      "local": "eleitorado_secao/2024/perfil_eleitor_secao_2024_RR.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2024_RR.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2024,
+      "uf": "RR"
+    },
+    {
+      "key": "perfil_secao_2024_RS",
+      "local": "eleitorado_secao/2024/perfil_eleitor_secao_2024_RS.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2024_RS.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2024,
+      "uf": "RS"
+    },
+    {
+      "key": "perfil_secao_2024_SC",
+      "local": "eleitorado_secao/2024/perfil_eleitor_secao_2024_SC.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2024_SC.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2024,
+      "uf": "SC"
+    },
+    {
+      "key": "perfil_secao_2024_SE",
+      "local": "eleitorado_secao/2024/perfil_eleitor_secao_2024_SE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2024_SE.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2024,
+      "uf": "SE"
+    },
+    {
+      "key": "perfil_secao_2024_TO",
+      "local": "eleitorado_secao/2024/perfil_eleitor_secao_2024_TO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2024_TO.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2024,
+      "uf": "TO"
+    },
+    {
+      "key": "perfil_secao_2026_AC",
+      "local": "eleitorado_secao/2026/perfil_eleitor_secao_2026_AC.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2026_AC.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2026,
+      "uf": "AC"
+    },
+    {
+      "key": "perfil_secao_2026_AL",
+      "local": "eleitorado_secao/2026/perfil_eleitor_secao_2026_AL.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2026_AL.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2026,
+      "uf": "AL"
+    },
+    {
+      "key": "perfil_secao_2026_AM",
+      "local": "eleitorado_secao/2026/perfil_eleitor_secao_2026_AM.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2026_AM.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2026,
+      "uf": "AM"
+    },
+    {
+      "key": "perfil_secao_2026_AP",
+      "local": "eleitorado_secao/2026/perfil_eleitor_secao_2026_AP.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2026_AP.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2026,
+      "uf": "AP"
+    },
+    {
+      "key": "perfil_secao_2026_BA",
+      "local": "eleitorado_secao/2026/perfil_eleitor_secao_2026_BA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2026_BA.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2026,
+      "uf": "BA"
+    },
+    {
+      "key": "perfil_secao_2026_CE",
+      "local": "eleitorado_secao/2026/perfil_eleitor_secao_2026_CE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2026_CE.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2026,
+      "uf": "CE"
+    },
+    {
+      "key": "perfil_secao_2026_DF",
+      "local": "eleitorado_secao/2026/perfil_eleitor_secao_2026_DF.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2026_DF.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2026,
+      "uf": "DF"
+    },
+    {
+      "key": "perfil_secao_2026_ES",
+      "local": "eleitorado_secao/2026/perfil_eleitor_secao_2026_ES.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2026_ES.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2026,
+      "uf": "ES"
+    },
+    {
+      "key": "perfil_secao_2026_GO",
+      "local": "eleitorado_secao/2026/perfil_eleitor_secao_2026_GO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2026_GO.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2026,
+      "uf": "GO"
+    },
+    {
+      "key": "perfil_secao_2026_MA",
+      "local": "eleitorado_secao/2026/perfil_eleitor_secao_2026_MA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2026_MA.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2026,
+      "uf": "MA"
+    },
+    {
+      "key": "perfil_secao_2026_MG",
+      "local": "eleitorado_secao/2026/perfil_eleitor_secao_2026_MG.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2026_MG.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2026,
+      "uf": "MG"
+    },
+    {
+      "key": "perfil_secao_2026_MS",
+      "local": "eleitorado_secao/2026/perfil_eleitor_secao_2026_MS.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2026_MS.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2026,
+      "uf": "MS"
+    },
+    {
+      "key": "perfil_secao_2026_MT",
+      "local": "eleitorado_secao/2026/perfil_eleitor_secao_2026_MT.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2026_MT.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2026,
+      "uf": "MT"
+    },
+    {
+      "key": "perfil_secao_2026_PA",
+      "local": "eleitorado_secao/2026/perfil_eleitor_secao_2026_PA.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2026_PA.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2026,
+      "uf": "PA"
+    },
+    {
+      "key": "perfil_secao_2026_PB",
+      "local": "eleitorado_secao/2026/perfil_eleitor_secao_2026_PB.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2026_PB.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2026,
+      "uf": "PB"
+    },
+    {
+      "key": "perfil_secao_2026_PE",
+      "local": "eleitorado_secao/2026/perfil_eleitor_secao_2026_PE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2026_PE.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2026,
+      "uf": "PE"
+    },
+    {
+      "key": "perfil_secao_2026_PI",
+      "local": "eleitorado_secao/2026/perfil_eleitor_secao_2026_PI.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2026_PI.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2026,
+      "uf": "PI"
+    },
+    {
+      "key": "perfil_secao_2026_PR",
+      "local": "eleitorado_secao/2026/perfil_eleitor_secao_2026_PR.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2026_PR.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2026,
+      "uf": "PR"
+    },
+    {
+      "key": "perfil_secao_2026_RJ",
+      "local": "eleitorado_secao/2026/perfil_eleitor_secao_2026_RJ.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2026_RJ.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2026,
+      "uf": "RJ"
+    },
+    {
+      "key": "perfil_secao_2026_RN",
+      "local": "eleitorado_secao/2026/perfil_eleitor_secao_2026_RN.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2026_RN.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2026,
+      "uf": "RN"
+    },
+    {
+      "key": "perfil_secao_2026_RO",
+      "local": "eleitorado_secao/2026/perfil_eleitor_secao_2026_RO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2026_RO.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2026,
+      "uf": "RO"
+    },
+    {
+      "key": "perfil_secao_2026_RR",
+      "local": "eleitorado_secao/2026/perfil_eleitor_secao_2026_RR.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2026_RR.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2026,
+      "uf": "RR"
+    },
+    {
+      "key": "perfil_secao_2026_RS",
+      "local": "eleitorado_secao/2026/perfil_eleitor_secao_2026_RS.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2026_RS.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2026,
+      "uf": "RS"
+    },
+    {
+      "key": "perfil_secao_2026_SC",
+      "local": "eleitorado_secao/2026/perfil_eleitor_secao_2026_SC.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2026_SC.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2026,
+      "uf": "SC"
+    },
+    {
+      "key": "perfil_secao_2026_SE",
+      "local": "eleitorado_secao/2026/perfil_eleitor_secao_2026_SE.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2026_SE.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2026,
+      "uf": "SE"
+    },
+    {
+      "key": "perfil_secao_2026_TO",
+      "local": "eleitorado_secao/2026/perfil_eleitor_secao_2026_TO.zip",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2026_TO.zip",
+      "tipo": "eleitorado_secao",
+      "ano": 2026,
+      "uf": "TO"
+    }
+  ]
+}
